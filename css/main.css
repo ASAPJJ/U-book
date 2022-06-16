@@ -1,0 +1,12 @@
+    /*Fondo colores*/
+    body{
+        background: #ffe259;
+        background: linear-gradient(to right, #ffa751, #ffe259) ;
+    }
+    .bi{
+        font-size: 30px;
+    }
+    #modalHeader, #modalFooter{
+        background: #ffe259;
+        background: linear-gradient(to right, #ffa751, #ffe259) ;
+    }
